@@ -1,8 +1,8 @@
 {
   "login": "Yami-Sora",
   "level": 6,
-  "overall": "E",
-  "overallPercentile": 0.3963482290090395,
+  "overall": "D",
+  "overallPercentile": 0.40657107945288845,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 240,
+      "value": 241,
       "rank": "B",
-      "percentile": 0.8462572819030647
+      "percentile": 0.8468916295917758
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 3,
-      "rank": "D",
-      "percentile": 0.507696117492914
+      "value": 4,
+      "rank": "C",
+      "percentile": 0.6331483952649493
     },
     {
       "code": "LUK",
@@ -49,6 +49,27 @@
     }
   ],
   "events": [
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "E",
+      "to": "D",
+      "at": "2026-10-10T20:33:44.899Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "D",
+      "to": "C",
+      "at": "2026-10-10T20:33:44.899Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "boss-slayer",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-10T20:33:44.899Z"
+    },
     {
       "kind": "level",
       "subject": "Level",
@@ -104,7 +125,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 240
+      "value": 241
     },
     {
       "id": "unbroken",
@@ -114,7 +135,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 43
+      "value": 42
     },
     {
       "id": "early-bird",
@@ -179,7 +200,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 117
+      "value": 118
     },
     {
       "id": "daily-grinder",
@@ -194,12 +215,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 5
+      "value": 7
     },
     {
       "id": "boss-slayer",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "escape-artist",
@@ -214,6 +235,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-10",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-09",
         "cleared": 2,
@@ -233,8 +259,10 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 5,
-    "bosses": [],
+    "questsDone": 7,
+    "bosses": [
+      "2026-10-05"
+    ],
     "escapes": 1,
     "kinds": [
       "contribute",
@@ -242,5 +270,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-09T21:39:17.468Z"
+  "syncedAt": "2026-10-10T20:33:44.899Z"
 }
