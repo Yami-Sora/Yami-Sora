@@ -2,7 +2,7 @@
   "login": "Yami-Sora",
   "level": 6,
   "overall": "D",
-  "overallPercentile": 0.40657107945288845,
+  "overallPercentile": 0.4067186461997779,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 241,
+      "value": 242,
       "rank": "B",
-      "percentile": 0.8468916295917758
+      "percentile": 0.8475216566145295
     },
     {
       "code": "AGI",
@@ -125,7 +125,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 241
+      "value": 242
     },
     {
       "id": "unbroken",
@@ -200,7 +200,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 116
+      "value": 117
     },
     {
       "id": "daily-grinder",
@@ -215,7 +215,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 8
+      "value": 10
     },
     {
       "id": "boss-slayer",
@@ -235,6 +235,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-12",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-11",
         "cleared": 1,
@@ -264,7 +269,7 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 8,
+    "questsDone": 10,
     "bosses": [
       "2026-10-05"
     ],
@@ -275,5 +280,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-11T20:57:22.026Z"
+  "syncedAt": "2026-10-12T23:36:48.480Z"
 }
