@@ -170,7 +170,7 @@
     {
       "id": "polyglot",
       "tier": 2,
-      "value": 6
+      "value": 5
     },
     {
       "id": "star-collector",
@@ -215,7 +215,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 10
+      "value": 12
     },
     {
       "id": "boss-slayer",
@@ -235,6 +235,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-13",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-12",
         "cleared": 2,
@@ -269,7 +274,7 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 10,
+    "questsDone": 12,
     "bosses": [
       "2026-10-05"
     ],
@@ -280,5 +285,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-12T23:36:48.480Z"
+  "syncedAt": "2026-10-13T21:49:40.957Z"
 }
