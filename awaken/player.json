@@ -83,27 +83,6 @@
       "from": "E",
       "to": "D",
       "at": "2026-10-08T22:02:32.959Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "3",
-      "to": "5",
-      "at": "2026-10-07T18:45:41.060Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "STR",
-      "from": "C",
-      "to": "B",
-      "at": "2026-10-07T18:45:41.060Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "relentless",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-07T18:45:41.060Z"
     }
   ],
   "achievements": [
@@ -135,7 +114,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 42
+      "value": 41
     },
     {
       "id": "early-bird",
@@ -236,6 +215,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-14",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-13",
         "cleared": 2,
         "total": 3
@@ -285,5 +269,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-13T21:49:40.957Z"
+  "syncedAt": "2026-10-14T20:40:23.664Z"
 }
