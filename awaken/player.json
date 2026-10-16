@@ -69,20 +69,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-10T20:33:44.899Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "5",
-      "to": "6",
-      "at": "2026-10-08T22:02:32.959Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "E",
-      "to": "D",
-      "at": "2026-10-08T22:02:32.959Z"
     }
   ],
   "achievements": [
@@ -194,12 +180,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 14
+      "value": 15
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 1
+      "value": 2
     },
     {
       "id": "escape-artist",
@@ -214,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-16",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-15",
         "cleared": 2,
@@ -263,8 +254,9 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 14,
+    "questsDone": 15,
     "bosses": [
+      "2026-10-12",
       "2026-10-05"
     ],
     "escapes": 2,
@@ -274,5 +266,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-15T20:19:06.599Z"
+  "syncedAt": "2026-10-16T19:55:37.947Z"
 }
