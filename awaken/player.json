@@ -2,7 +2,7 @@
   "login": "Yami-Sora",
   "level": 6,
   "overall": "D",
-  "overallPercentile": 0.40730295168547875,
+  "overallPercentile": 0.40744756164104123,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 246,
+      "value": 247,
       "rank": "B",
-      "percentile": 0.8499993988366173
+      "percentile": 0.850608448376326
     },
     {
       "code": "AGI",
@@ -90,7 +90,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 246
+      "value": 247
     },
     {
       "id": "unbroken",
@@ -201,6 +201,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-17",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-16",
         "cleared": 1,
         "total": 3
@@ -266,5 +271,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-16T19:55:37.947Z"
+  "syncedAt": "2026-10-17T19:20:40.702Z"
 }
