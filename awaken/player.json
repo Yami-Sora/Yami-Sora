@@ -2,7 +2,7 @@
   "login": "Yami-Sora",
   "level": 6,
   "overall": "D",
-  "overallPercentile": 0.40744756164104123,
+  "overallPercentile": 0.40759159441278436,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 247,
+      "value": 248,
       "rank": "B",
-      "percentile": 0.850608448376326
+      "percentile": 0.8512134238409456
     },
     {
       "code": "AGI",
@@ -50,25 +50,11 @@
   ],
   "events": [
     {
-      "kind": "overall",
-      "subject": "Overall rank",
-      "from": "E",
-      "to": "D",
-      "at": "2026-10-10T20:33:44.899Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "D",
-      "to": "C",
-      "at": "2026-10-10T20:33:44.899Z"
-    },
-    {
       "kind": "achievement",
-      "subject": "boss-slayer",
+      "subject": "escape-artist",
       "from": "0",
       "to": "1",
-      "at": "2026-10-10T20:33:44.899Z"
+      "at": "2026-10-18T19:24:55.099Z"
     }
   ],
   "achievements": [
@@ -90,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 247
+      "value": 248
     },
     {
       "id": "unbroken",
@@ -165,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 118
+      "value": 115
     },
     {
       "id": "daily-grinder",
@@ -180,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 15
+      "value": 17
     },
     {
       "id": "boss-slayer",
@@ -189,8 +175,8 @@
     },
     {
       "id": "escape-artist",
-      "tier": 0,
-      "value": 2
+      "tier": 1,
+      "value": 3
     },
     {
       "id": "collector",
@@ -200,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-18",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-17",
         "cleared": 0,
@@ -259,17 +250,17 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 15,
+    "questsDone": 17,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
     ],
-    "escapes": 2,
+    "escapes": 3,
     "kinds": [
       "contribute",
       "commit",
       "streak"
     ]
   },
-  "syncedAt": "2026-10-17T19:20:40.702Z"
+  "syncedAt": "2026-10-18T19:24:55.099Z"
 }
