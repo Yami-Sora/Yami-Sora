@@ -2,7 +2,7 @@
   "login": "Yami-Sora",
   "level": 6,
   "overall": "D",
-  "overallPercentile": 0.4083032593812178,
+  "overallPercentile": 0.40858404171856333,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 253,
+      "value": 255,
       "rank": "B",
-      "percentile": 0.8541785469210964
+      "percentile": 0.8553374140445905
     },
     {
       "code": "AGI",
@@ -55,13 +55,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-19T21:30:17.256Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "escape-artist",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-18T19:24:55.099Z"
     }
   ],
   "achievements": [
@@ -83,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 253
+      "value": 255
     },
     {
       "id": "unbroken",
@@ -93,7 +86,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 41
+      "value": 42
     },
     {
       "id": "early-bird",
@@ -103,7 +96,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 21
+      "value": 22
     },
     {
       "id": "gate-opener",
@@ -128,7 +121,7 @@
     {
       "id": "polyglot",
       "tier": 2,
-      "value": 5
+      "value": 6
     },
     {
       "id": "star-collector",
@@ -158,12 +151,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 117
+      "value": 115
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "perfect-week",
@@ -173,26 +166,31 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 25
+      "value": 28
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "escape-artist",
       "tier": 1,
-      "value": 3
+      "value": 4
     },
     {
       "id": "collector",
       "tier": 1,
-      "value": 5
+      "value": 6
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-25",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-24",
         "cleared": 0,
@@ -284,22 +282,24 @@
         "total": 3
       }
     ],
-    "perfectDays": 2,
-    "run": 0,
+    "perfectDays": 3,
+    "run": 1,
     "bestRun": 1,
-    "questsDone": 25,
+    "questsDone": 28,
     "bosses": [
+      "2026-10-19",
       "2026-10-12",
       "2026-10-05"
     ],
-    "escapes": 3,
+    "escapes": 4,
     "kinds": [
       "contribute",
       "commit",
       "streak",
       "three",
-      "average"
+      "average",
+      "weekend"
     ]
   },
-  "syncedAt": "2026-10-24T19:28:09.697Z"
+  "syncedAt": "2026-10-25T19:34:44.686Z"
 }
