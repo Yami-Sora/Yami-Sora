@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 40
+      "value": 42
     },
     {
       "id": "early-bird",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 34
+      "value": 35
     },
     {
       "id": "boss-slayer",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-17",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-16",
         "cleared": 1,
@@ -387,7 +392,7 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 34,
+    "questsDone": 35,
     "bosses": [
       "2026-10-19",
       "2026-10-12",
@@ -403,5 +408,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-11-17T00:46:28.634Z"
+  "syncedAt": "2026-11-17T23:49:43.305Z"
 }
