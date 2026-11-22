@@ -73,7 +73,7 @@
     {
       "id": "unbroken",
       "tier": 2,
-      "value": 39
+      "value": 35
     },
     {
       "id": "night-owl",
@@ -138,12 +138,12 @@
     {
       "id": "berserker",
       "tier": 0,
-      "value": 9
+      "value": 7
     },
     {
       "id": "diligent",
       "tier": 1,
-      "value": 105
+      "value": 99
     },
     {
       "id": "daily-grinder",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-22",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-21",
         "cleared": 0,
@@ -428,5 +433,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-11-21T22:09:52.224Z"
+  "syncedAt": "2026-11-22T22:26:44.207Z"
 }
