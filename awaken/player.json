@@ -1,8 +1,8 @@
 {
   "login": "Yami-Sora",
   "level": 6,
-  "overall": "D",
-  "overallPercentile": 0.4090011611447652,
+  "overall": "E",
+  "overallPercentile": 0.39883518854479955,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 4,
-      "rank": "C",
-      "percentile": 0.6331483952649493
+      "value": 3,
+      "rank": "D",
+      "percentile": 0.507696117492914
     },
     {
       "code": "LUK",
@@ -48,7 +48,22 @@
       "percentile": 0
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "D",
+      "to": "E",
+      "at": "2026-11-24T03:18:31.558Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "C",
+      "to": "D",
+      "at": "2026-11-24T03:18:31.558Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -93,7 +108,7 @@
     {
       "id": "gate-opener",
       "tier": 0,
-      "value": 3
+      "value": 2
     },
     {
       "id": "raider",
@@ -178,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-23",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-22",
         "cleared": 0,
@@ -433,5 +453,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-11-22T22:26:44.207Z"
+  "syncedAt": "2026-11-24T03:18:31.558Z"
 }
